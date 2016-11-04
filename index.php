@@ -28,9 +28,9 @@
 			<?php 
 
 			$host="localhost";
-			$user="root";
-			$password="";
-			$database="studentdb";
+			$user="admingm82BHV";
+			$password="7Xx_KtCXfTlD";
+			$database="gittest";
 			$socket=null;
 			
 
