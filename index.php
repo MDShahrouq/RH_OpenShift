@@ -27,7 +27,7 @@
 
 			<?php 
 
-			$host="localhost";
+			$host="https://openshift.redhat.com/app/console/domain/srkpds";
 			$user="admingm82BHV";
 			$password="7Xx_KtCXfTlD";
 			$database="gittest";
